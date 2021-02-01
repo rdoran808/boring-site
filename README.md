@@ -1,1 +1,1 @@
-# hello-world
+# boring-site
